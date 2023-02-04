@@ -1,7 +1,7 @@
 # GreyMatter-Forward-Bot
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sparrow-07/auto-forward-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BabuAgaram/auto-forward-v2)
 - 👆 Press the deploy button.
 
 #VPS Deploy Commands 👇
